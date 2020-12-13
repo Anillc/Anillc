@@ -4,7 +4,6 @@
 
 [Anillc](https://anillc.cn)
 [kano.cat](https://kano.cat)
-[setu!](http://setu.awsl.ee)
 
 ---
 
