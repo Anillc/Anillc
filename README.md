@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/kotlin-blue?style=flat-square&logo=kotlin)  
 
 ![](https://img.shields.io/badge/Vue-blue?style=flat-square&logo=vue.js)
-![](https://img.shields.io/badge/Vertx-blue?style=flat-square&logo=vertx)  
+![](https://img.shields.io/badge/Vert.x-blue?style=flat-square&logo=eclipse-vert.x)  
 
 ![](https://img.shields.io/badge/Gradle-blue?style=flat-square&logo=gradle)
 ![](https://img.shields.io/badge/Webpack-blue?style=flat-square&logo=webpack)
