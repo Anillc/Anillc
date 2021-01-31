@@ -1,11 +1,9 @@
 摸鱼ww
 
----
+[Anillc的blog](https://anillc.cn)
+[kanocat](https://kano.cat)
 
-[Anillc](https://anillc.cn)
-[kano.cat](https://kano.cat)
-
----
+![Metrics](https://metrics.lecoq.io/Anillc?template=classic&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true)  
 
 ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows)
 ![](https://img.shields.io/badge/Android-blue?style=flat-square&logo=android)
