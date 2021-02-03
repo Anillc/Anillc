@@ -4,6 +4,5 @@
 - 喜欢摸鱼  
 - www
 - [关于我](https://anillc.cn/about)  
-
-[Anillc的blog](https://anillc.cn)  
-[kanocat](https://kano.cat)
+- [blog](https://anillc.cn)  
+- [kanocat](https://kano.cat)
