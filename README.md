@@ -1,7 +1,7 @@
 这里是Anillc的github  
 - 高三  
 - 最喜欢鹿乃啦w  
-- 喜欢摸鱼  
+- 摸鱼ww  
 - www
 - [关于我](https://anillc.cn/about)  
 - [blog](https://anillc.cn)  
