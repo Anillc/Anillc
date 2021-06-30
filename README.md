@@ -1,5 +1,4 @@
 这里是Anillc的github  
-- 高三  
 - 最喜欢鹿乃啦w  
 - 摸鱼ww  
 - www  
